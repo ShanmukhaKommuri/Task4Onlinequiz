@@ -1,0 +1,6 @@
+1) 0 degrees in fahrenheit ?
+   a)32  b)0   c)-32  d)90
+2) How many days are there in a week ?
+   a)10  b)12  c)30   d)7
+3) How many seconds make an hour ?
+   a)100 b)120 c)3600 d)60
